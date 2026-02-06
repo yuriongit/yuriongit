@@ -1,7 +1,7 @@
 # Hi, I'm Yuri 👋 
 **Junior Software Engineer | Fullstack Development**
 
-I'm a former **Junior Software Engineer Intern @ Dravit Nova**. I'm currently seeking my next **Internship / CO-OP** opportunity to contribute to impactful software solutions.
+I'm a former **Junior Software Engineer Intern at Dravit Nova**. I'm currently seeking my next **Internship / CO-OP** opportunity to contribute to impactful software solutions.
 
 ---
 
