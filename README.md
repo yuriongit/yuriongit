@@ -20,8 +20,8 @@ I'm a former **Junior Software Engineer Intern at Dravit Nova**. I'm currently s
 ---
 
 ## What I'm working on
--  I’m currently working on a sports mobile/web application for teams: **BallBook**
--  I’m currently learning **Data Structures & Algorithms**
+-  A sports mobile/web application for teams: **BallBook**
+-  Learning and improving skills in **Data Structures & Algorithms**
 
 ---
 
