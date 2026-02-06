@@ -5,7 +5,7 @@ I'm a former **Junior Software Engineer Intern at Dravit Nova**. I'm currently s
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Frontend & Backend**
 <p align="left">
@@ -19,13 +19,13 @@ I'm a former **Junior Software Engineer Intern at Dravit Nova**. I'm currently s
 
 ---
 
-## 🚀 What I'm working on
-- 🔭 I’m currently working on a sports mobile/web application for teams: **BallBook**
-- 🌱 I’m currently learning **Data Structures & Algorithms**
+## What I'm working on
+-  I’m currently working on a sports mobile/web application for teams: **BallBook**
+-  I’m currently learning **Data Structures & Algorithms**
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 If you have a project inquiry or if you just wanna speak, feel free to reach out.
 
