@@ -1,48 +1,42 @@
-<h1 align="left">Yuri Okeren</h1>
+# Hi there, I'm Yuri 👋 
+**Junior Software Engineer | Fullstack Development**
 
-###
+I'm a former **Junior Software Engineer Intern @ Dravit Nova**. I'm currently seeking my next **Internship / CO-OP** opportunity to contribute to impactful software solutions.
 
-###
+---
 
-<h2 align="left">Stack</h2>
+## 💻 Tech Stack
 
-###
+**Frontend & Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,nodejs,express,postgres,supabase" alt="My Stack" />
+</p>
 
-<br clear="both">
+**Tools & Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powershell,git,github" alt="Tools" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
+---
 
-###
+## 🚀 What I'm working on
+- 🔭 I’m currently working on a sports mobile/web application for teams: **BallBook**
+- 🌱 I’m currently learning **Data Structures & Algorithms**
 
-<h2 align="left">Skills</h2>
+---
 
-###
+## 🤝 Connect with me
 
-<br clear="both">
+If you have a project inquiry or if you just wanna speak, feel free to reach out.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
-
-###
-###
+<p align="left">
+<a href="mailto:yuri.dev44@outlook.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Logo" />
+</a>
+<a href="https://linkedin.com/in/yuri-okeren" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Logo" />
+</a>
+<a href="https://discordapp.com/users/830171225334087740" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Logo" />
+</a>
+</p>
