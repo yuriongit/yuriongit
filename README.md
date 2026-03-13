@@ -1,5 +1,5 @@
 # Hi, I'm Yuri 👋 
-**Junior Software Engineer | Fullstack Development**
+**Software Engineer | Fullstack Development**
 
 ---
 
