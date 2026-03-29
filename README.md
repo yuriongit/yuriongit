@@ -1,28 +1,41 @@
-# Hi, I'm Yuri 👋 
-**Software Engineer | Fullstack Development**
+<h1 align="left">Hi, I'm Yuri 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" />
+</h1> 
 
----
+### 
+<p align="left">Software Engineer | Fullstack Development</p> 
 
-## Tech Stack
 
-**Frontend & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,react,tailwind,nodejs,express,postgres,supabase" alt="My Stack" />
-</p>
+### 
 
-**Tools & Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powershell,git,github" alt="Tools" />
-</p>
+<h2 align="left">Stack</h2> 
 
----
+### 
+
+<div align="left"> 
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> 
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  /> 
+  <img width="12" /> <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /> 
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  /> 
+  <img width="12" /> <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  /> 
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  /> 
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  /> <img width="12" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> 
+</div> 
+  
+###
+
 
 ## What I'm working on
 - A sports mobile/web application for teams: **<a href="https://github.com/BallBook">BallBook</a>** 
 - Improving skills in **Data Structures & Algorithms**
 - A Generative AI project: **<a href="https://github.com/WalleyAI">WalleyAI</a>** 
 
----
+###
 
 ## Connect with me
 
