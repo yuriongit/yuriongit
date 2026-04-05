@@ -1,5 +1,5 @@
 ### Hi, I'm Yuri <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="22" />
-  I'm a Software Engineer, and I specialize in fullstack-development
+  I'm a Software Engineer, and I specialize in full-stack development
 
 ### Stack 
 <div align="left"> 
