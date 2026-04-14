@@ -17,7 +17,7 @@ Currently interning at Dravit Nova (8 months)
 ### Currently working on
   - **Payments:** Implementing Stripe Webhooks
   - **TypeScript:** Mastering semi-advanced patterns
-  - **Testing:** Unit and integration testing with Jest, Bun, and Supertest
+  - **Testing:** Unit and integration testing with Vitest
 
 ### Contact
 Whether it's a project inquiry or just a chat, feel free to reach out.
