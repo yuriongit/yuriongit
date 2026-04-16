@@ -8,10 +8,9 @@ Currently interning at Dravit Nova (8 months)
 <div align="left"> 
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> 
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /> 
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  /> 
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  /> 
+  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo"  /> 
 </div> 
 
 ### Currently working on
