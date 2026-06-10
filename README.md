@@ -1,8 +1,8 @@
 ### Hi, I'm Yuri 👋
 
-I’m a Full-Stack Software Engineer
+Web Software Engineer transitioning into Embedded Software Engineering.
 
-Currently interning at Dravit Nova (8 months)
+1yr intern at Dravit Nova.
 
 ### Stack 
 <div align="left"> 
@@ -14,12 +14,12 @@ Currently interning at Dravit Nova (8 months)
 </div> 
 
 ### Currently working on
-  - **Payments:** Implementing Stripe Webhooks
-  - **TypeScript:** Mastering semi-advanced patterns
-  - **Testing:** Unit and integration testing with Vitest
+  - **C:** Building intermediate-level proficiency
+  - **Computer Architecture:** Studying low-level systems concepts through CSAPP
+  - **Vim:** Integrating Vim into my workflow
 
 ### Contact
-Whether it's a project inquiry or just a chat, feel free to reach out.
+Open to project collaboration and discussion.
 <p align="left">
   <a href="mailto:yuri.dev44@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
