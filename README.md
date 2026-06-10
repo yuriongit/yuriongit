@@ -10,7 +10,6 @@ Web Software Engineer transitioning into Embedded Software Engineering.
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /> 
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  /> 
-  <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="vitest logo"  /> 
 </div> 
 
 ### Currently working on
