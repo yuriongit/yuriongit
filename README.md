@@ -4,7 +4,7 @@ Web Software Engineer transitioning into Embedded Software Engineering.
 
 1yr intern at Dravit Nova.
 
-### Stack 
+### Web Stack 
 <div align="left"> 
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  /> 
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
