@@ -1,6 +1,6 @@
 ### Hi, I'm Yuri 👋
 
-Web Software Engineer transitioning into Embedded Software Engineering.
+Full-stack Web Software Engineer
 
 1yr intern at Dravit Nova.
 
@@ -13,6 +13,7 @@ Web Software Engineer transitioning into Embedded Software Engineering.
 </div> 
 
 ### Currently working on
+  - **Embedded Systems**: Learning about Embedded Engineering
   - **C:** Building intermediate-level proficiency
   - **Computer Architecture:** Studying low-level systems concepts through CSAPP
   - **Vim:** Integrating Vim into my workflow
