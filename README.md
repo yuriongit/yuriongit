@@ -17,7 +17,7 @@ The tools I reach for on most projects:
 
 ### Also Comfortable With
 
-Additionally, solid here:
+Additionally, solid here and more:
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
