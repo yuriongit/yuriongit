@@ -29,7 +29,7 @@ Additionally, solid here and more:
 </div>
 
 ### Building
-- **BucketDraft: NBA Fantasy Drafting Game** — mobile-first, gamified fantasy app [(Repo)](https://github.com/yuriongit/bucket-draft)
+- **BucketDraft: NBA Fantasy Drafting Game** — mobile-first, gamified fantasy app
 
 ### Learning
 - **Embedded Systems** — foundational embedded engineering concepts
