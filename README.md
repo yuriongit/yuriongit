@@ -1,5 +1,6 @@
 ### Hi, I'm Yuri 👋
 Full-stack Software Engineer 
+
 Previous Software Engineer Intern @ Dravit Nova (1yr)
 
 ### What I Build With
