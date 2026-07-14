@@ -1,32 +1,22 @@
-### Hi, I'm Yuri 👋
+## Hi, I'm Yuri 👋
 Full-stack Software Engineer,
 
 Previous Software Engineer Intern @ Dravit Nova (1yr).
 
-### What I Build With
+### Daily Drivers
 
 The tools I reach for on most projects:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="tailwindcss logo" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <img height="40" src="https://skillicons.dev/icons?i=ts,react,tailwindcss,nodejs,bun,express,mongodb,postgres,docker" alt="core toolkit icons" />
 </div>
 
-### Also Comfortable With
+### Also Fluent With
 
-Additionally, solid here and more:
+Additional tools I use when the project calls for them:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo" />
+  <img height="40" src="https://skillicons.dev/icons?i=python,fastapi,redis,supabase,graphql,vitest,pytest" alt="additional tools icons" />
 </div>
 
 ### Building
