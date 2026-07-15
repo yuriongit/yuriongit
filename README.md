@@ -20,7 +20,7 @@ Additional tools I use when the project calls for them:
 </div>
 
 ### Building
-- **BucketDraft: NBA Fantasy Drafting Game** — mobile-first, gamified fantasy app
+- **CourtDreamz: NBA Fantasy Drafting Game** — mobile-first, gamified fantasy app
 
 ### Learning
 - **Embedded Systems** — foundational embedded engineering concepts
