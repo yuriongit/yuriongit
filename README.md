@@ -23,9 +23,8 @@ Additional tools I use when the project calls for them:
 - **CourtDreamz: NBA Fantasy Drafting Game** — mobile-first, gamified fantasy app
 
 ### Learning
-- **Embedded Systems** — foundational embedded engineering concepts
 - **Computer Architecture** — low-level systems concepts via CS:APP
-- **C** — building intermediate-level proficiency
+- **Go** — building intermediate-level proficiency
 - **Vim** — integrating into daily workflow
 
 ### Contact
