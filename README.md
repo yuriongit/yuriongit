@@ -8,7 +8,7 @@ Previous Software Engineer Intern @ Dravit Nova (1yr).
 The tools I reach for on most projects:
 
 <div align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=ts,react,tailwindcss,nodejs,bun,express,mongodb,postgres,docker" alt="core toolkit icons" />
+  <img height="40" src="https://skillicons.dev/icons?i=ts,react,tailwindcss,nodejs,express,mongodb,postgres" alt="core toolkit icons" />
 </div>
 
 ### Also Fluent With
@@ -16,7 +16,7 @@ The tools I reach for on most projects:
 Additional tools I use when the project calls for them:
 
 <div align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=python,fastapi,redis,supabase,graphql,vitest,pytest" alt="additional tools icons" />
+  <img height="40" src="https://skillicons.dev/icons?i=python,fastapi,redis,supabase,graphql,vitest,bun" alt="additional tools icons" />
 </div>
 
 ### Building
