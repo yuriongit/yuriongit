@@ -28,7 +28,6 @@ Additional tools I use when the project calls for them:
 
 ### Contact
 Open to project collaboration and discussion.
-- [Email](mailto:yuri.dev44@outlook.com)
-- [LinkedIn](https://linkedin.com/in/yuri-okeren)
-- [Discord](https://discordapp.com/users/830171225334087740)
-- [Portfolio](https://yuriok-portfolio.vercel.app)
+- Email: [yuri.dev44@outlook.com](mailto:yuri.dev44@outlook.com)
+- LinkedIn: [linkedin.com/in/yuri-okeren](https://linkedin.com/in/yuri-okeren)
+- Discord: [@yuri.social](https://discordapp.com/users/830171225334087740)
