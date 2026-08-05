@@ -1,5 +1,5 @@
 ## Hi, I'm Yuri 👋
-Full-stack Software Engineer,
+A Full-stack Software Engineer (backend-focused),
 
 Previous Software Engineer Intern @ Dravit Nova (1 year).
 
