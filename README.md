@@ -8,7 +8,7 @@ Previous Software Engineer Intern @ Dravit Nova (1 year).
 The tools I reach for on most projects:
 
 <div align="left">
-  <img height="37" src="https://skillicons.dev/icons?i=ts,react,tailwindcss,nodejs,express,supabase,bun" alt="core tools icons" />
+  <img height="37" src="https://skillicons.dev/icons?i=ts,react,tailwindcss,express,supabase,bun" alt="core tools icons" />
 </div>
 
 ### Also Experienced With
