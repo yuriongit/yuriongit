@@ -16,7 +16,7 @@ The tools I reach for on most projects:
 Additional technologies I've worked with across projects:
 
 <div align="left">
-  <img height="37" src="https://skillicons.dev/icons?i=python,fastapi,mongodb,redis,nodejs,go" alt="additional tools icons" />
+  <img height="37" src="https://skillicons.dev/icons?i=nodejs,go,python,fastapi,mongodb,redis" alt="additional tools icons" />
 </div>
 
 ### Infrastructure Tools
