@@ -1,5 +1,5 @@
 ## Hi, I'm Yuri 👋
-A Full-stack Software Engineer (backend-focused),
+A Full-stack Software Engineer,
 
 Previous Software Engineer Intern @ Dravit Nova (1 year).
 
@@ -21,7 +21,7 @@ Additional technologies I've worked with across projects:
 
 ### Infrastructure Tools
 
-Containerization and CI/CD:
+CI/CD:
 
 <div align="left">
   <img height="37" src="https://skillicons.dev/icons?i=githubactions,docker" alt="infrastructure tools" />
