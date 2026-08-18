@@ -3,27 +3,27 @@ A Full-stack Software Engineer,
 
 Previous Software Engineer Intern @ Dravit Nova (1 year).
 
-### Core Tools
+### Primary Stack
 
 <div align="left">
   <img height="40" src="https://skillicons.dev/icons?i=ts,react,tailwindcss,express,supabase,bun" alt="core tools icons" />
 </div>
 
-### Also Experienced With
+### Additional Experience
 
 
 <div align="left">
   <img height="40" src="https://skillicons.dev/icons?i=nodejs,go,python,fastapi,mongodb,redis" alt="additional tools icons" />
 </div>
 
-### CI/CD:
+### CI/CD & Infrastructure:
 
 
 <div align="left">
   <img height="37" src="https://skillicons.dev/icons?i=githubactions,docker" alt="infrastructure tools" />
 </div>
 
-### Learning
+### Currently Learning
 - **Computer Architecture** ⎯ Deepening low-level systems knowledge through _CS:APP_
 - **Linux (RHEL 9/Fedora)** ⎯ File systems, process management, storage
 
