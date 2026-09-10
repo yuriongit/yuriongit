@@ -1,8 +1,8 @@
 ## Hi, I'm Yuri 👋
 
-Full-Stack Software Engineer.
+Software Engineer.
 
-Previous Software Engineer Intern @ Dravit Nova (1 year).
+Previous Full-Stack Software Engineer Intern @ Dravit Nova (1 year).
 
 ### Primary Stack
 
