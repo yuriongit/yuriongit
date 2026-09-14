@@ -7,13 +7,13 @@ Previous Full-Stack Software Engineer Intern @ Dravit Nova (1 year).
 ### Primary Stack
 
 <div align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=ts,react,express,postgres,mongodb,bun" alt="core tools icons" />
+  <img height="40" src="https://skillicons.dev/icons?i=ts,express,postgres,mongodb,react,bun,nodejs" alt="core tools icons" />
 </div>
 
 ### Additional Experience
 
 <div align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=nodejs,go,python,fastapi,redis" alt="additional tools icons" />
+  <img height="40" src="https://skillicons.dev/icons?i=go,python,fastapi,redis" alt="additional tools icons" />
 </div>
 
 ### CI/CD & Infrastructure
