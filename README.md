@@ -1,8 +1,8 @@
 ## Hi, I'm Yuri 👋
 
-Backend Software Engineer.
+Backend Software Engineer. 
 
-Previous Full-Stack Software Engineer Intern @ Dravit Nova (1 year).
+Previous Full-Stack Software Engineer Intern @ Dravit (1 year).
 
 ### Primary Stack
 
@@ -23,15 +23,21 @@ Previous Full-Stack Software Engineer Intern @ Dravit Nova (1 year).
 </div>
 
 ### Development Environment
+
 <div align="left">
   <img height="37" src="https://skillicons.dev/icons?i=linux,ubuntu" alt="infrastructure tools" />
 </div>
 
-### Currently Learning
-- **Computer Architecture** ⎯ Deepening low-level systems knowledge through _CS:APP_
+### Currently Building
+
+**[Punch](https://github.com/yuriongit/punch)** − A customizable, simple and lightweight HTTP load-testing CLI tool.
 
 ### Contact
-Open to collaborating on projects and discussing software.
-- Email: [yuri.dev44@outlook.com](mailto:yuri.dev44@outlook.com)
-- LinkedIn: [linkedin.com/in/yuri-okeren](https://linkedin.com/in/yuri-okeren)
-- Discord: [@yuri.social](https://discordapp.com/users/830171225334087740)
+
+Open to collaboration, discussing software, and software engineering roles.
+
+**Email − [yuri.dev44@outlook.com](mailto:yuri.dev44@outlook.com)**
+
+**Discord − [@yuri.social](https://discordapp.com/users/830171225334087740)**
+
+**LinkedIn − [linkedin.com/in/yuri-okeren](https://linkedin.com/in/yuri-okeren)**
