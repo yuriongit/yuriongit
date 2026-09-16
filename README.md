@@ -1,36 +1,31 @@
-## Hi, I'm Yuri 👋
+## Hi, I'm Yuri.
 
-Backend Software Engineer. 
 
-Previous Full-Stack Software Engineer Intern @ Dravit (1 year).
+Backend Software Engineer.
 
-### Primary Stack
+Previously a Full-Stack Software Engineer Intern @ Dravit (1 year)
 
-<div align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=ts,express,postgres,mongodb,react,bun,nodejs" alt="core tools icons" />
+### Technologies
+
+<div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat&logo=gin&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Express-grey?style=flat&logo=express&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="24" />
+
+  <br/>
+  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="24" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=beige" height="24" />
+  <img src="https://img.shields.io/badge/NodeJS-darkgreen?style=flat&logo=nodedotjs&logoColor=lightgreen" height="24" />
 </div>
 
-### Additional Experience
+### Building
 
-<div align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=go,python,fastapi,redis" alt="additional tools icons" />
-</div>
-
-### CI/CD & Infrastructure
-
-<div align="left">
-  <img height="37" src="https://skillicons.dev/icons?i=githubactions,docker" alt="infrastructure tools" />
-</div>
-
-### Development Environment
-
-<div align="left">
-  <img height="37" src="https://skillicons.dev/icons?i=linux,ubuntu" alt="infrastructure tools" />
-</div>
-
-### Currently Building
-
-**[Punch](https://github.com/yuriongit/punch)** − A customizable, simple and lightweight HTTP load-testing CLI tool.
+**[Punch](https://github.com/yuriongit/punch)** – A customizable and lightweight HTTP load-testing CLI tool written in Go.
 
 ### Contact
 
