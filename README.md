@@ -1,8 +1,8 @@
-## Hi, I'm Yuri Okeren.
+## Hi, I'm Yuri Okeren,
 
-a **Software Engineer** with 1½ years of experience building full-stack applications, 
-with a focus on _**backend**_ systems, APIs, and service architecture. Previously a
-Full-Stack Software Engineer Intern @ Dravit (1 year): Currently open to employment.
+a Software Engineer, focused on **_backend_** systems.
+
+Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
 
 ### Technologies
 
@@ -19,7 +19,7 @@ Full-Stack Software Engineer Intern @ Dravit (1 year): Currently open to employm
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=beige" height="24" />
-  <img src="https://img.shields.io/badge/Node-darkgreen?style=flat-square&logo=nodedotjs&logoColor=lightgreen" height="24" />
+  <img src="https://img.shields.io/badge/NodeJS-darkgreen?style=flat-square&logo=nodedotjs&logoColor=lightgreen" height="24" />
 </div>
 
 ### Building
@@ -35,4 +35,3 @@ Open to collaboration, discussing software, and software engineering roles.
 **Discord − [@yuri.social](https://discordapp.com/users/830171225334087740)**
 
 **LinkedIn − [linkedin.com/in/yuri-okeren](https://linkedin.com/in/yuri-okeren)**
-
