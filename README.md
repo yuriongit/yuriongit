@@ -1,9 +1,8 @@
-## Hi, I'm Yuri.
+## Hi, I'm Yuri Okeren.
 
-
-Backend Software Engineer.
-
-Previously a Full-Stack Software Engineer Intern @ Dravit (1 year)
+a **Software Engineer** with 1½ years of experience building full-stack applications, 
+with a focus on _**backend**_ systems, APIs, and service architecture. Previously a
+Full-Stack Software Engineer Intern @ Dravit (1 year): Currently open to employment.
 
 ### Technologies
 
