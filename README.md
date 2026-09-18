@@ -1,10 +1,12 @@
-## Hi, I'm Yuri Okeren,
+# Hi, I'm Yuri Okeren,
 
 a Software Engineer, focused on **_backend_** systems.
 
 Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
 
-### Technologies
+**My portfolio – [yuriok-me.vercel.app](https://yuriok-me.vercel.app)**
+
+## Technologies
 
 <div>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="24" />
@@ -22,11 +24,11 @@ Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
   <img src="https://img.shields.io/badge/NodeJS-darkgreen?style=flat-square&logo=nodedotjs&logoColor=lightgreen" height="24" />
 </div>
 
-### Building
+## Building
 
 **[Punch](https://github.com/yuriongit/punch)** – A customizable and lightweight HTTP load-testing CLI tool written in Go.
 
-### Contact
+## Contact
 
 Open to collaboration, discussing software, and software engineering roles:
 
