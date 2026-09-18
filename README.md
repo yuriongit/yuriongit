@@ -28,7 +28,7 @@ Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
 
 ### Contact
 
-Open to collaboration, discussing software, and software engineering roles.
+Open to collaboration, discussing software, and software engineering roles:
 
 **Email − [yuri.dev44@outlook.com](mailto:yuri.dev44@outlook.com)**
 
