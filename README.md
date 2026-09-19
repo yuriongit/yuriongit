@@ -4,7 +4,7 @@ a Software Engineer, focused on **_backend_** systems.
 
 Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
 
-**My portfolio – [yuriok-me.vercel.app](https://yuriok-me.vercel.app)**
+**Portfolio – [yuriok-me.vercel.app](https://yuriok-me.vercel.app)**
 
 ## Technologies
 
