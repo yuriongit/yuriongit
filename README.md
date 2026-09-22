@@ -35,5 +35,3 @@ Open to collaboration, discussing software, and software engineering roles:
 **Email − [yuri.dev44@outlook.com](mailto:yuri.dev44@outlook.com)**
 
 **Discord − [@yuri.social](https://discordapp.com/users/830171225334087740)**
-
-**LinkedIn − [linkedin.com/in/yuri-okeren](https://linkedin.com/in/yuri-okeren)**
