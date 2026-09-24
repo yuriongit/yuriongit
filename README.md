@@ -26,7 +26,9 @@ Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
 
 ### Building
 
-**[Punch](https://github.com/yuriongit/punch)** – A customizable and lightweight HTTP load-testing CLI tool written in Go.
+**[Punch](https://github.com/yuriongit/punch)** – A customizable and lightweight HTTP load-testing CLI tool.
+
+**[TDay](https://github.com/yuriongit/tday)** – My personal task-managing CLI tool for keep tracking of what I need done for the day.
 
 ### Contact
 
