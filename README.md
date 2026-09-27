@@ -21,7 +21,7 @@ Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=beige" height="24" />
-  <img src="https://img.shields.io/badge/NodeJS-darkgreen?style=flat&logo=nodedotjs&logoColor=lightgreen" height="24" />
+  <img src="https://img.shields.io/badge/Node.js-darkgreen?style=flat&logo=nodedotjs&logoColor=lightgreen" height="24" />
 </div>
 
 ### Building
