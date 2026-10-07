@@ -10,8 +10,8 @@ Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
 
 <div>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" height="24" />
-  <img src="https://img.shields.io/badge/Gin-008ECF?style=flat&logo=gin&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="24" />
+    <img src="https://img.shields.io/badge/Gin-008ECF?style=flat&logo=gin&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Express-grey?style=flat&logo=express&logoColor=white" height="24" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="24" />
 
