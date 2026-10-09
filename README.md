@@ -26,9 +26,9 @@ Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
 
 ### Building
 
-**[Punch](https://github.com/yuriongit/punch)** – A customizable and lightweight HTTP load-testing CLI tool.
+**[TDay](https://github.com/yuriongit/tday)** − My day-to-day task management CLI for my development workflow
 
-**[TDay](https://github.com/yuriongit/tday)** – My personal task-managing CLI tool for keep tracking of what I need done for the day.
+**[MXS](https://github.com/yuriongit/mxs)** − A Bash script manager and executor CLI _also_ for my development workflow
 
 ### Contact
 
