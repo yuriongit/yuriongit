@@ -26,7 +26,7 @@ Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
 
 ### Building
 
-**[MXS](https://github.com/yuriongit/mxs)** − A simple & colored CLI to manage and execute Bash scripts
+**[MXS](https://github.com/yuriongit/mxs)** − A simple, structured, and colored CLI to manage and execute scripts
 
 **[TDay](https://github.com/yuriongit/tday)** − My day-to-day task management CLI for my development workflow
 
