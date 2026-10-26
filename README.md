@@ -4,7 +4,7 @@ a Software Engineer, focused on **_backend_** systems.
 
 Previously a Full-Stack Software Engineer Intern @ Dravit (1 year).
 
-**Portfolio: [www.yuriok.dev](www.yuriok.dev)**
+**Portfolio: [www.yuriok.dev](https://yuriok.dev)**
 
 ### Technologies
 
